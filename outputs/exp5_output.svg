@@ -2,7 +2,6 @@
   <rect width="900" height="520" fill="#f8fafc"/>
   <rect x="35" y="30" width="830" height="460" rx="16" fill="#ffffff" stroke="#1e88e5" stroke-width="2"/>
   <rect x="35" y="30" width="830" height="55" rx="16" fill="#1e88e5"/>
-  <text x="65" y="65" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="18" font-weight="bold">Exp 5: Local State (setState) vs Reactive State (ChangeNotifier)</text>
   <!-- Card 1: setState -->
   <rect x="65" y="115" width="770" height="150" rx="14" fill="#ffffff" stroke="#e2e8f0"/>
   <text x="95" y="150" fill="#1e293b" font-family="Segoe UI, sans-serif" font-size="16" font-weight="bold">1. Local State: StatefulWidget &amp; setState()</text>
