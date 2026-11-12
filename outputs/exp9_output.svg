@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="#0f172a"/>
+  <rect x="35" y="30" width="830" height="460" rx="16" fill="#1e293b" stroke="#38bdf8" stroke-width="2"/>
+  <g fill="#e2e8f0" font-family="Consolas, 'Courier New', monospace" font-size="19">
+    <text x="70" y="90" fill="#38bdf8" font-weight="bold">=== Exp 9: REST API &amp; Asynchronous FutureBuilder ===</text>
+    <text x="70" y="130" fill="#94a3b8">>> HTTP GET https://api.studenthub.edu/v1/notices</text>
+    <text x="70" y="165" fill="#fbbf24">>> Status: 200 OK (ConnectionState.done)</text>
+    <text x="70" y="200" fill="#a5f3fc">>> Response Body: JSON Array (3 Notices parsed)</text>
+    
+    <text x="70" y="250" fill="#4ade80">[1] Mid-Semester Examinations Timetable Released</text>
+    <text x="70" y="280">    Category: Examinations | Date: Nov 12, 2026</text>
+    
+    <text x="70" y="325" fill="#4ade80">[2] Annual Campus Hackathon 2026 Registration</text>
+    <text x="70" y="355">    Category: Events | Date: Nov 15, 2026</text>
+    
+    <text x="70" y="400" fill="#4ade80">[3] Central Library Extended 24x7 Reading Room</text>
+    <text x="70" y="430">    Category: Facilities | Date: Nov 20, 2026</text>
+    
+    <text x="70" y="465" fill="#38bdf8">>> Handled states: ConnectionState.waiting, hasError &amp; retry</text>
+  </g>
+</svg>

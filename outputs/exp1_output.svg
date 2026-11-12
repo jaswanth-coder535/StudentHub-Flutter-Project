@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="#0f172a"/>
+  <rect x="35" y="30" width="830" height="460" rx="16" fill="#1e293b" stroke="#1e88e5" stroke-width="2"/>
+  <g fill="#e2e8f0" font-family="Consolas, 'Courier New', monospace" font-size="20">
+    <text x="70" y="110" fill="#38bdf8" font-weight="bold">=== Student Hub Academic Evaluation Engine ===</text>
+    <text x="70" y="160">Student: Alex Johnson (Roll: 21CS1045)</text>
+    <text x="70" y="200">Department: Computer Science &amp; Engineering | Semester: 5</text>
+    <text x="70" y="245">Attendance: 161 / 186 classes (86.6%)</text>
+    <text x="70" y="285">Missed Classes: 25</text>
+    <text x="70" y="325" fill="#4ade80">Attendance Status: Safe (Eligible for Final Examinations)</text>
+    <text x="70" y="370">Total Marks: 443 / 500 (88.6%)</text>
+    <text x="70" y="410">Semester GPA: 8.96 / 10.0</text>
+    <text x="70" y="450" fill="#fbbf24">Classification: First Class with Distinction (High Honors)</text>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="#f8fafc"/>
+  <rect x="35" y="30" width="830" height="460" rx="16" fill="#ffffff" stroke="#1e88e5" stroke-width="2"/>
+  <rect x="35" y="30" width="830" height="55" rx="16" fill="#1e88e5"/>
+  <text x="65" y="65" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="18" font-weight="bold">Exp 3: Responsive UI Breakdown (Desktop / Tablet Dual-Pane vs Mobile)</text>
+  <!-- Left Pane (Desktop 40%) -->
+  <rect x="65" y="110" width="330" height="340" rx="14" fill="#eff6ff" stroke="#bfdbfe"/>
+  <text x="90" y="145" fill="#1e40af" font-family="Segoe UI, sans-serif" font-size="16" font-weight="bold">Left Pane (40% Flex)</text>
+  <rect x="90" y="165" width="280" height="90" rx="10" fill="#1e88e5"/>
+  <text x="110" y="200" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="16" font-weight="bold">Alex Johnson</text>
+  <text x="110" y="225" fill="#dbeafe" font-family="Segoe UI, sans-serif" font-size="12">Roll: 21CS1045 • Sem 5</text>
+  <text x="90" y="285" fill="#1e3a8a" font-family="Segoe UI, sans-serif" font-size="13">• Profile &amp; ID Details</text>
+  <text x="90" y="315" fill="#1e3a8a" font-family="Segoe UI, sans-serif" font-size="13">• Overall Attendance Status</text>
+  <text x="90" y="345" fill="#1e3a8a" font-family="Segoe UI, sans-serif" font-size="13">• Current Cumulative GPA</text>
+  <!-- Right Pane (Desktop 60%) -->
+  <rect x="420" y="110" width="415" height="340" rx="14" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="445" y="145" fill="#1e293b" font-family="Segoe UI, sans-serif" font-size="16" font-weight="bold">Right Pane (60% Adaptive Schedule &amp; Tasks)</text>
+  <rect x="445" y="165" width="365" height="60" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="465" y="195" fill="#1e293b" font-family="Segoe UI, sans-serif" font-size="13" font-weight="bold">Algorithms: 88.9% Attendance (Safe)</text>
+  <rect x="445" y="240" width="365" height="60" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="465" y="270" fill="#1e293b" font-family="Segoe UI, sans-serif" font-size="13" font-weight="bold">Database Systems: 91.2% Attendance (Safe)</text>
+  <rect x="445" y="315" width="365" height="60" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="465" y="345" fill="#1e293b" font-family="Segoe UI, sans-serif" font-size="13" font-weight="bold">Computer Networks: 86.7% Attendance (Safe)</text>
+</svg>

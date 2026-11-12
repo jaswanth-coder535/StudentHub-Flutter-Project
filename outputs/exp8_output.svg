@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="#f8fafc"/>
+  <rect x="35" y="30" width="830" height="460" rx="16" fill="#ffffff" stroke="#1e88e5" stroke-width="2"/>
+  <rect x="35" y="30" width="830" height="55" rx="16" fill="#1e88e5"/>
+  <text x="65" y="65" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="18" font-weight="bold">Exp 8: Flutter Physics &amp; Curved Animations (FadeTransition, ScaleTransition)</text>
+  <!-- Animated Card Banner -->
+  <g transform="translate(0, 0)">
+    <rect x="120" y="125" width="660" height="230" rx="20" fill="#0d47a1"/>
+    <text x="450" y="195" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="38" text-anchor="middle">🏆</text>
+    <text x="450" y="245" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">Semester 5 Honors Grade Card</text>
+    <text x="450" y="280" fill="#93c5fd" font-family="Segoe UI, sans-serif" font-size="16" text-anchor="middle">SGPA: 8.82 / 10.0 (First Class with Distinction)</text>
+    <text x="450" y="315" fill="#dbeafe" font-family="Segoe UI, sans-serif" font-size="13" text-anchor="middle">Curves.easeOutBack (Scale 0.8 -> 1.0) • Curves.easeIn (Fade 0.0 -> 1.0)</text>
+  </g>
+  <!-- Replay Button -->
+  <rect x="330" y="390" width="240" height="50" rx="12" fill="#1e88e5"/>
+  <text x="450" y="422" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="15" font-weight="bold" text-anchor="middle">🔄 Replay Animation</text>
+</svg>
