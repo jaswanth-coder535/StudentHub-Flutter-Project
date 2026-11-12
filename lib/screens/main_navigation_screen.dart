@@ -18,11 +18,7 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
     StorageService().addListener(_onStorageUpdate);
   }
 
-  @override
-  void dispose() {
-    StorageService().removeListener(_onStorageUpdate);
-    super.dispose();
-  }
+
 
   void _onStorageUpdate() {
     if (mounted) setState(() {});
@@ -47,6 +43,12 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
       const ProfileScreen(),
     ];
 
+      @override
+  void dispose() {
+    StorageService().removeListener(_onStorageUpdate);
+    super.dispose();
+  }
+    
     return Scaffold(
       body: IndexedStack(
         index: _currentIndex,
