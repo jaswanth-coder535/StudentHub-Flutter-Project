@@ -14,9 +14,7 @@
 
 </div>
 
-<div align="center">
-  <img width="420" alt="Student Hub Home Dashboard" src="assets/screenshots/home_dashboard.png" />
-</div>
+
 
 <br/>
 
