@@ -33,19 +33,6 @@
 
 ---
 
-## 📱 Application Preview Showcase
-
-| Home Dashboard | Attendance Tracker | Weekly Timetable | Assignments & Tasks |
-|:---:|:---:|:---:|:---:|
-| <img src="assets/screenshots/home_dashboard.png" width="230"/> | <img src="assets/screenshots/attendance_screen.png" width="230"/> | <img src="assets/screenshots/timetable_screen.png" width="230"/> | <img src="assets/screenshots/assignments_screen.png" width="230"/> |
-| *Hero card & quick access* | *Radial gauge & subject stats* | *Daily class timetable* | *Task filter & checkboxes* |
-
-| Study Materials | Examination Results | Student Profile | Login & Registration |
-|:---:|:---:|:---:|:---:|
-| <img src="assets/screenshots/study_materials_screen.png" width="230"/> | <img src="assets/screenshots/results_screen.png" width="230"/> | <img src="assets/screenshots/profile_screen.png" width="230"/> | <img src="assets/screenshots/login_screen.png" width="230"/> |
-| *Searchable PDF notes* | *SGPA & subject marks* | *Academic details & edit* | *Sign in & demo credentials* |
-
----
 
 ## 📖 Abstract
 
