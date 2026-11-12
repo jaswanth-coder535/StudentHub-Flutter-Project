@@ -7,13 +7,6 @@ import 'timetable/timetable_screen.dart';
 import 'assignments/assignments_screen.dart';
 import 'profile/profile_screen.dart';
 
-class MainNavigationScreen extends StatefulWidget {
-  final int initialIndex;
-  const MainNavigationScreen({super.key, this.initialIndex = 0});
-
-  @override
-  State<MainNavigationScreen> createState() => _MainNavigationScreenState();
-}
 
 class _MainNavigationScreenState extends State<MainNavigationScreen> {
   late int _currentIndex;
@@ -91,6 +84,15 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
               activeIcon: Icon(Icons.pie_chart_rounded),
               label: 'Attendance',
             ),
+
+            class MainNavigationScreen extends StatefulWidget {
+  final int initialIndex;
+  const MainNavigationScreen({super.key, this.initialIndex = 0});
+
+  @override
+  State<MainNavigationScreen> createState() => _MainNavigationScreenState();
+}
+
             const BottomNavigationBarItem(
               icon: Icon(Icons.calendar_today_outlined),
               activeIcon: Icon(Icons.calendar_today_rounded),
