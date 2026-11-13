@@ -87,9 +87,7 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
               label: 'Attendance',
             ),
 
-            class MainNavigationScreen extends StatefulWidget {
-  final int initialIndex;
-  const MainNavigationScreen({super.key, this.initialIndex = 0});
+           
 
   @override
   State<MainNavigationScreen> createState() => _MainNavigationScreenState();
@@ -100,6 +98,11 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
               activeIcon: Icon(Icons.calendar_today_rounded),
               label: 'Timetable',
             ),
+
+             class MainNavigationScreen extends StatefulWidget {
+  final int initialIndex;
+  const MainNavigationScreen({super.key, this.initialIndex = 0});
+               
             BottomNavigationBarItem(
               icon: Stack(
                 clipBehavior: Clip.none,
